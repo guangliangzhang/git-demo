@@ -1,6 +1,6 @@
 Hello git!
 Hello git!2222
 Hi Git 33333
-<<<<<<< HEAD
 你好git master test
 hot fix 11111 hot-fix test
+11111111111111111111111111
